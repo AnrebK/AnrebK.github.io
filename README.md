@@ -25,7 +25,7 @@
         <ol>
         <li><a href="#Panqueques">Panqueques</a></li><br>
         <li><a href="#Waffles" >Waffles</a></li><br>
-        <li><a href="#crepes">crepes</a></li><brZ
+        <li><a href="#crepes">crepes</a></li><br>
         </ol>
         
         <h3 id="Panqueques"class="elaboracion">Panqueques</h3>
